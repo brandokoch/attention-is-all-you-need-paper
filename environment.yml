@@ -1,0 +1,19 @@
+name: attention-is-all-you-need-paper
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - cudatoolkit=11.1 # or 10.2
+  - pytorch=1.10.0
+  - matplotlib=3.4.3
+  - jupyter=1.0.0
+  - pip=21.3.1
+  - pip:
+    - streamlit==1.2.0
+    - tokenizers==0.10.3
+    - datasets==1.15.1
+    - wandb==0.12.7
+    - nltk==3.6.5
+
