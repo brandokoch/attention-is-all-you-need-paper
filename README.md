@@ -62,6 +62,7 @@ python scripts/download_pretrained.py
 ```
 ***Note**: If prompted about wandb setting select option 3*
 
+You can see all the information and results for pretrained models at this [project link](https://wandb.ai/bkoch4142/attention-is-all-you-need-paper/runs/1rbhz2as?workspace=user-bkoch4142).
 
 # Usage
 
