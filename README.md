@@ -62,6 +62,7 @@ python scripts/download_pretrained.py
 ```
 ***Note**: If prompted about wandb setting select option 3*
 
+You can see all the information and results for pretrained models at this [project link](https://wandb.ai/bkoch4142/attention-is-all-you-need-paper/runs/1rbhz2as?workspace=user-bkoch4142).
 
 # Usage
 
@@ -110,7 +111,11 @@ For inference I created a simple app with [Streamlit](https://streamlit.io/) whi
 $ streamlit run app/inference_app.py
 ```
 
-https://user-images.githubusercontent.com/57716666/144227003-8062c5b0-d655-4ffb-8bc3-dc905fee48a7.mp4
+
+
+https://user-images.githubusercontent.com/57716666/144402132-37566499-f79e-4828-857a-2c2b820f2094.mp4
+
+
 
 
 # Data 
