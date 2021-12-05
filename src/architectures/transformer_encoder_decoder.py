@@ -4,7 +4,7 @@ from architectures.transformer_encoder import TransformerEncoder
 from architectures.transformer_decoder import TransformerDecoder
 from architectures.positional_encoding import PositionalEncoding
 
-import math # needed?
+import math
 
 
 class TransformerEncoderDecoder(nn.Module):
