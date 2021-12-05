@@ -123,7 +123,7 @@ The original transformer architecture presented in this paper consists of an enc
 
 <a>
   <p align="center">
-    <img width="400" height="600" src="other/official_transformer_arch_illustration.jpg" style='border:8px solid #bfbfbf'>
+    <img width="400" height="600" src="other/transformer_architecture.jpg" style='border:8px solid #bfbfbf'>
   </p>
 </a>
 
