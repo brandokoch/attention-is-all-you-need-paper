@@ -43,7 +43,7 @@ Transformers came to be a groundbreaking advance in neural network architectures
 ✔️ Bleu-score calculation during training  
 ✔️ Documented dimensions for every step of the architecture  
 ✔️ Shown progress of translation for an example after every epoch  
-✔️ Tutorial notebook (**Coming soon...**)
+✔️ Tutorial notebook
 
 # Setup
 
