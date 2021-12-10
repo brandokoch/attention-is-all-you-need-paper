@@ -160,14 +160,14 @@ Please use this bibtex if you want to cite this repository:
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/bkoch4142/MISSING}},
+  howpublished = {\url{https://github.com/bkoch4142/attention-is-all-you-need-paper}},
 }
 ```
 
 ## License
 This repository is under an MIT License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/bkoch4142/attention-is-all-you-need-paper/LICENSE)
 
 
 
