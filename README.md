@@ -167,7 +167,7 @@ Please use this bibtex if you want to cite this repository:
 ## License
 This repository is under an MIT License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/bkoch4142/attention-is-all-you-need-paper/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/bkoch4142/attention-is-all-you-need-paper/blob/master/LICENSE)
 
 
 
