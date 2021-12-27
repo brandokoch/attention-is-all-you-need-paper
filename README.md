@@ -147,7 +147,7 @@ wandb: (3) Don't visualize my results
 wandb: Enter your choice: 
 ```
 
-For creating and syncing the visualizations to the cloud you will need a **W&B account**. Creating an account and using it won't take you more than a minute and it's free. If don't want to visualize results select option 3.
+For creating and syncing the visualizations to the cloud you will need a **W&B account**. Creating an account and using it won't take you more than a minute and it's free. If you don't want to visualize results select option 3.
 
 
 
