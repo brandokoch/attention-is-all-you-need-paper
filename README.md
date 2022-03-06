@@ -100,7 +100,7 @@ Before starting training you can either **choose a configuration out of availabl
    - MODEL_SAVE_EPOCH_CNT - After how many epochs to save a model checkpoint
    - LABEL_SMOOTHING - Whether to apply label smoothing
 
-Once you decide on the configuration edit the config_name in train.py and do:
+Once you decide on the configuration **edit the config_name in train.py** and do:
 ```
 $ cd src
 $ python train.py
