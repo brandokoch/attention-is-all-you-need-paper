@@ -160,7 +160,7 @@ Please use this bibtex if you want to cite this repository:
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/bkoch4142/attention-is-all-you-need-paper}},
+  howpublished = {\url{https://github.com/brandokoch/attention-is-all-you-need-paper}},
 }
 ```
 
