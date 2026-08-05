@@ -1,6 +1,6 @@
 # Attention Is All You Need Paper Implementation
 
-This is my from-scratch implementation of the original transformer architecture from the following paper: [Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems. 2017.](https://arxiv.org/abs/1706.03762)
+This is my from-scratch implementation of the original transformer architecture from the following paper: [Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems. 2017.](https://arxiv.org/abs/1706.03762). For a more detailed step-by-step blog on how to implement a transformer from scratch see [Transformer from scratch](https://brandokoch.com/blog/transformers/)
 
 <a href=https://arxiv.org/pdf/1706.03762.pdf>
   <p align="center">
