@@ -4,7 +4,7 @@ unofficial_single_gpu_config=dict(
     RUN_DESCRIPTION='Default run on GPU, 10GB of VRAM needed for this.',
     RUNS_FOLDER_PTH='../runs',
     # DATA CONFIG:
-    DATASET_SIZE=300000,
+    DATASET_SIZE=80000,
     TEST_PROPORTION=0.001,
     MAX_SEQ_LEN=40,
     VOCAB_SIZE=60000,
